@@ -1,0 +1,31 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@invictus.codes/nuxt-vuetify": "^0.3.0",
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/tailwindcss": "^6.10.1",
+    "nuxt": "^3.8.2",
+    "nuxt-icon": "^0.6.6",
+    "nuxt-use-motion": "^2.0.0-beta.11",
+    "vue": "^3.3.8",
+    "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@studio-freight/lenis": "^1.0.29",
+    "@vueuse/motion": "^2.0.0",
+    "@vueuse/nuxt": "^10.6.1",
+    "nuxt-swiper": "^1.2.2",
+    "resend": "^2.0.0",
+    "sass": "^1.69.5",
+    "vue-preloader": "^1.1.4"
+  }
+}

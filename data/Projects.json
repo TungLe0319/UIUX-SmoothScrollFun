@@ -1,0 +1,366 @@
+[
+  {
+    "title": "UIUX-Construction",
+    "src": "https://cdn.discordapp.com/attachments/1060066788878069891/1181104026247499776/image.png?ex=657fd7d7&is=656d62d7&hm=ad475e7c6c65aa261abb3cfb209bb69d681f313f07d569cb4010318d5dd2779e&",
+    "description": "A part of my  comprehensive developer portfolio series, meticulously crafted with Nuxt, Vue,Tailwind and Vuetify. This collection showcases my proficiency in creating dynamic and visually appealing UI/UX landing pages.",
+    "tech": [
+      {
+        "title": "Nuxt.js",
+        "src": "skill-icons:nuxtjs-dark"
+      },
+      {
+        "title": "Vue.js 3",
+        "src": "skill-icons:vuejs-light"
+      },
+      {
+        "title": "TailWind CSS",
+        "src": "skill-icons:tailwindcss-dark"
+      },
+      {
+        "title": "VueUse",
+        "src": "logos:vueuse"
+      },
+      {
+        "title": "Vuetify",
+        "src": "logos:vuetifyjs"
+      }
+    ],
+    "link": "https://tung.uiux.contruction.devopportunities.dev/"
+  },
+  {
+    "title": "UIUX-Cafe",
+    "src": "https://cdn.discordapp.com/attachments/1060066788878069891/1180946260153335818/image.png?ex=657f44e9&is=656ccfe9&hm=2d4aff6b129a22b82c5e3308e7df460335eadff97ed0d6b59d80ea571e35b729&",
+    "description": "A part of my  comprehensive developer portfolio series, meticulously crafted with Nuxt, Vue,Tailwind and Vuetify. This collection showcases my proficiency in creating dynamic and visually appealing UI/UX landing pages.",
+    "tech": [
+      {
+        "title": "Nuxt.js",
+        "src": "skill-icons:nuxtjs-dark"
+      },
+      {
+        "title": "Vue.js 3",
+        "src": "skill-icons:vuejs-light"
+      },
+      {
+        "title": "TailWind CSS",
+        "src": "skill-icons:tailwindcss-dark"
+      },
+      {
+        "title": "Vuetify",
+        "src": "logos:vuetifyjs"
+      }
+    ],
+    "link": "https://tung.uiux.cafe-2.devopportunities.dev/"
+  },
+  {
+    "title": "UIUX-Hvac",
+    "src": "https://media.discordapp.net/attachments/1060066788878069891/1179920738472443967/image.png?ex=657b89d1&is=656914d1&hm=f3ae349883216f47f2cc3ecd94163939d884110a58607aff89f7fbe97b0ed165&=&format=webp&width=960&height=533",
+    "description": "A part of my  comprehensive developer portfolio series, meticulously crafted with Nuxt, Vue, and Tailwind. This collection showcases my proficiency in creating dynamic and visually appealing UI/UX landing pages.This one particular focused on HVAC services.",
+    "tech": [
+      {
+        "title": "Nuxt.js",
+        "src": "skill-icons:nuxtjs-dark"
+      },
+      {
+        "title": "Vue.js 3",
+        "src": "skill-icons:vuejs-light"
+      },
+      {
+        "title": "TailWind CSS",
+        "src": "skill-icons:tailwindcss-dark"
+      }
+    ],
+    "link": "https://frontier.devopportunities.dev/"
+  },
+  {
+    "title": "UIUX-Digital-2",
+    "src": "https://media.discordapp.net/attachments/1060066788878069891/1179921199812321401/image.png?ex=657b8a3f&is=6569153f&hm=3541c46bbf391308ccc3181a60e542ce628efc95cbedadfa8051034d0b43c80a&=&format=webp&width=960&height=533",
+    "description": "A part of my  comprehensive developer portfolio series, meticulously crafted with Nuxt, Vue, and Tailwind. This collection showcases my proficiency in creating dynamic and visually appealing UI/UX landing pages.",
+    "tech": [
+      {
+        "title": "Nuxt.js",
+        "src": "skill-icons:nuxtjs-dark"
+      },
+      {
+        "title": "Vue.js 3",
+        "src": "skill-icons:vuejs-light"
+      },
+      {
+        "title": "TailWind CSS",
+        "src": "skill-icons:tailwindcss-dark"
+      }
+    ],
+    "link": "https://tung.uiux.digital-2.devopportunities.dev/"
+  },
+  {
+    "title": "UIUX-Digital-1",
+    "src": "https://media.discordapp.net/attachments/1060066788878069891/1179921120556757092/image.png?ex=657b8a2d&is=6569152d&hm=c7ae472bcb30e33b7c7faed738922aa0cfc1b45e48d24b65618fba9f37329765&=&format=webp&width=960&height=533",
+    "description": "A part of my  comprehensive developer portfolio series, meticulously crafted with Nuxt, Vue, and Tailwind. This collection showcases my proficiency in creating dynamic and visually appealing UI/UX landing pages.",
+    "tech": [
+      {
+        "title": "Nuxt.js",
+        "src": "skill-icons:nuxtjs-dark"
+      },
+      {
+        "title": "Vue.js 3",
+        "src": "skill-icons:vuejs-light"
+      },
+      {
+        "title": "TailWind CSS",
+        "src": "skill-icons:tailwindcss-dark"
+      }
+    ],
+    "link": "https://tung.uiux.digital-1.devopportunities.dev/"
+  },
+  {
+    "title": "Nuxt Drizzle",
+    "src": "https://media.discordapp.net/attachments/1060066788878069891/1172792077554302997/Screenshot_2023-11-10_at_11.56.23_PM.png?ex=65619abc&is=654f25bc&hm=afdffc319647abdf936c33fae33d0dde21e1d1089bc21aff20a87090e3f7a43e&=&width=720&height=400",
+    "description": "Template project built on the Nuxt framework, showcasing the power of Drizzle ORM for efficient data management. The template employs Tailwind CSS for responsive and sleek design. Enhanced with the refined components of Daisy UI. This project brings together the strengths of Nuxt, Drizzle ORM, Tailwind CSS, and Daisy UI.",
+    "tech": [
+      {
+        "title": "Nuxt.js",
+        "src": "skill-icons:nuxtjs-dark"
+      },
+      {
+        "title": "Vue.js 3",
+        "src": "skill-icons:vuejs-light"
+      },
+      {
+        "title": "TailWind CSS",
+        "src": "skill-icons:tailwindcss-dark"
+      },
+      {
+        "title": "Auth.js",
+        "src": "material-symbols:shield-lock-outline"
+      },
+      {
+        "title": "PostgreSQL",
+        "src": "skill-icons:postgresql-dark"
+      },
+      {
+        "title": "Drizzle ORM",
+        "src": "simple-icons:drizzle"
+      }
+    ],
+    "link": "https://drizzle-nuxt.apps.devopportunities.dev/"
+  },
+  {
+    "title": "Tauri Note Taker",
+    "src": "https://cdn.discordapp.com/attachments/262286883000811520/1168759358155411456/tauri-notetaker.png?ex=6552eef9&is=654079f9&hm=b6f44757ecc51d7ed3e824f24582c8f01f44dc1fd3e75727a867794aa3484831&",
+    "description": "Application built in Tauri to create a NoteTaker for customer service and remote calls, has Templates for common situations, changeable Color themes, Clipboard watch for specified details like phone and email",
+    "tech": [
+      {
+        "title": "Svelte",
+        "src": "skill-icons:svelte"
+      },
+      {
+        "title": "Tauri",
+        "src": "logos:tauri"
+      },
+
+      {
+        "title": "TailWind CSS",
+        "src": "skill-icons:tailwindcss-dark"
+      },
+      {
+        "title": "SQL",
+        "src": "devicon:azuresqldatabase"
+      }
+    ],
+    "link": "https://svelte-blog.tung.devopportunities.dev/"
+  },
+  {
+    "title": "Svelte Blog",
+    "src": "https://media.discordapp.net/attachments/1060066788878069891/1165068659912355990/image.png?ex=654581be&is=65330cbe&hm=430d46aed7750e097cf44cc1d98cf76596700d00cbe0e72e64a4f70784cef630&=&width=720&height=368",
+    "description": "Blog app with an authentication flow, PostgreSQL database, ORM, and Tailwind-styled components. Includes search functionality, likes, comments, dynamic routing, and post details. Developed with SvelteKit. ",
+    "tech": [
+      {
+        "title": "Svelte",
+        "src": "skill-icons:svelte"
+      },
+
+      {
+        "title": "TailWind CSS",
+        "src": "skill-icons:tailwindcss-dark"
+      },
+      {
+        "title": "Auth.js",
+        "src": "material-symbols:shield-lock-outline"
+      },
+      {
+        "title": "Prisma.io",
+        "src": "skill-icons:prisma"
+      },
+      {
+        "title": "PostgreSQL",
+        "src": "skill-icons:postgresql-dark"
+      }
+    ],
+    "link": "https://svelte-blog.tung.devopportunities.dev/"
+  },
+  {
+    "title": "The Daily Sun",
+    "src": "https://cdn.discordapp.com/attachments/1060066788878069891/1165069470625181706/image.png?ex=6545827f&is=65330d7f&hm=bb345073945238971a93be26cc104ec6500979661b9938eb5013cad754400a8c&",
+    "description": "Full-stack commerce app for exploring featured projects and their details, creating shopping carts, and securely completing transactions with stripe. Users can manage their accounts, review purchase history, and access receipts.",
+    "tech": [
+      {
+        "title": "Nuxt.js",
+        "src": "skill-icons:nuxtjs-dark"
+      },
+      {
+        "title": "Vue.js 3",
+        "src": "skill-icons:vuejs-light"
+      },
+      {
+        "title": "TailWind CSS",
+        "src": "skill-icons:tailwindcss-dark"
+      },
+      {
+        "title": "Auth.js",
+        "src": "material-symbols:shield-lock-outline"
+      },
+      {
+        "title": "Prisma.io",
+        "src": "skill-icons:prisma"
+      },
+      {
+        "title": "PostgreSQL",
+        "src": "skill-icons:postgresql-dark"
+      }
+    ],
+    "link": "https://thedailysun.devopportunities.dev/"
+  },
+
+  {
+    "title": "Next-Cord",
+    "src": "https://cdn.discordapp.com/attachments/1060066788878069891/1168746525762015363/Screenshot_2023-10-30_at_9.00.48_PM.png?ex=6552e306&is=65406e06&hm=9a7d707b6dec1df2845c8e20d9ff0f35fde79431e187717f59a777bd4f26e2aa&",
+    "description": "Discord clone app featuring server and channel management, real-time messaging, likes, dynamic routing, built with React, Markdown, Tailwind CSS, and Styled Components.",
+    "tech": [
+      {
+        "title": "React",
+        "src": "skill-icons:react-dark"
+      },
+      {
+        "title": "Next.js",
+        "src": "skill-icons:nextjs-light"
+      },
+
+      {
+        "title": "PocketBase",
+        "src": "logos:pocket-base"
+      },
+      {
+        "title": "TailWind CSS",
+        "src": "skill-icons:tailwindcss-dark"
+      }
+    ],
+    "link": "https://nextcord.apps.devopportunities.dev/"
+  },
+
+  {
+    "title": "SamadhiYogaIdaho",
+    "src": "https://media.discordapp.net/attachments/1060066788878069891/1060067418073993226/samadhiApp.png?width=720&height=399",
+    "description": "Full-Stack app and landing page custom made for a yoga business owner and friend to showcase her class teaching schedules and upcoming events.",
+    "tech": [
+      {
+        "title": "Vue.js 3",
+        "src": "skill-icons:vuejs-light"
+      },
+      {
+        "title": "BootStrap",
+        "src": "skill-icons:bootstrap"
+      },
+      {
+        "title": "MongoDb",
+        "src": "skill-icons:mongodb"
+      },
+      {
+        "title": "PocketBase",
+        "src": "logos:pocket-base"
+      }
+    ],
+
+    "link": "https://www.samadhiyogaidaho.com/#/"
+  },
+
+  {
+    "title": "NextFire",
+    "src": "https://cdn.discordapp.com/attachments/1060066788878069891/1063581265971904593/Screenshot_2023-01-13_at_3.11.41_PM.png?ex=654eaabe&is=653c35be&hm=ba3d4cff1a6f382ec74bcaec7d7f236a1534228cf1f3b9efa4ab53a8fc9f1e1e&",
+    "description": "Full-stack social blogging platform built with React, Firebase, Tailwind, and Next.js. Inspired by website Dev.to, course taught by Fireship.io",
+    "tech": [
+      {
+        "title": "React",
+        "src": "skill-icons:react-dark"
+      },
+      {
+        "title": "Next.js",
+        "src": "skill-icons:nextjs-light"
+      },
+
+      {
+        "title": "FireBase",
+        "src": "logos:firebase"
+      },
+      {
+        "title": "TailWind CSS",
+        "src": "skill-icons:tailwindcss-dark"
+      }
+    ],
+    "link": "https://next-fire.tung.devopportunities.dev/"
+  },
+  {
+    "title": "Good Reads",
+    "src": "https://media.discordapp.net/attachments/1060066788878069891/1060067418820579439/BetterAfterBooks.png?width=720&height=390",
+    "description": "Full-stack application tailored to book lovers, allowing them to connect, discover, share recommendations, and curate collections of their favorite books. Inspired by Bookbub.com",
+    "tech": [
+      {
+        "title": "Vue.js 3",
+        "src": "skill-icons:vuejs-light"
+      },
+      {
+        "title": "BootStrap",
+        "src": "skill-icons:bootstrap"
+      },
+      {
+        "title": "MySQL",
+        "src": "skill-icons:mysql-dark"
+      },
+      {
+        "title": "DotNet Core",
+        "src": "skill-icons:dotnet"
+      },
+      {
+        "title": "C-Sharp",
+        "src": "skill-icons:cs"
+      }
+    ],
+    "link": "https://good-reads.apps.devopportunities.dev/#/"
+  },
+  {
+    "title": "Keepr",
+    "src": "https://media.discordapp.net/attachments/1060066788878069891/1060068356541120683/KeeprSS.png?width=720&height=395",
+    "description": "Full-stack social network designed for visual sharing, exploration, categorization of posts into collections, sleek Masonry layout , and user management with an authentication flow. Inspired by Pinterest.",
+    "tech": [
+      {
+        "title": "Vue.js 3",
+        "src": "skill-icons:vuejs-light"
+      },
+      {
+        "title": "BootStrap",
+        "src": "skill-icons:bootstrap"
+      },
+      {
+        "title": "MySQL",
+        "src": "skill-icons:mysql-dark"
+      },
+      {
+        "title": "DotNet Core",
+        "src": "skill-icons:dotnet"
+      },
+      {
+        "title": "C-Sharp",
+        "src": "skill-icons:cs"
+      }
+    ],
+    "link": "https://keeper.tung.devopportunities.dev/#/"
+  }
+]

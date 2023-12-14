@@ -1,0 +1,91 @@
+[
+	{
+		"title": "HTML5",
+		"src": "skill-icons:html"
+	},
+	{
+		"title": "CSS3",
+		"src": "skill-icons:css"
+	},
+	{
+		"title": "JavaScript ES6",
+		"src": "skill-icons:javascript"
+	},
+	{
+		"title": "TypeScript",
+		"src": "skill-icons:typescript"
+	},
+	{
+		"title": "C-Sharp",
+		"src": "skill-icons:cs"
+	},
+	{
+		"title": "Node Js",
+		"src": "skill-icons:nodejs-dark"
+	},
+	{
+		"title": "Vue.js 3",
+		"src": "skill-icons:vuejs-light"
+	},
+	{
+		"title": "Svelte",
+		"src": "skill-icons:svelte"
+	},
+	{
+		"title": "React",
+		"src": "skill-icons:react-dark"
+	},
+	{
+		"title": "Next.js",
+		"src": "skill-icons:nextjs-light"
+	},
+	{
+		"title": "Nuxt.js",
+		"src": "skill-icons:nuxtjs-dark"
+	},
+	{
+		"title": "Vuetify",
+		"src": "logos:vuetifyjs"
+	},
+	{
+		"title": "DotNet Core",
+		"src": "skill-icons:dotnet"
+	},
+	{
+		"title": "BootStrap",
+		"src": "skill-icons:bootstrap"
+	},
+	{
+		"title": "TailWind CSS",
+		"src": "skill-icons:tailwindcss-dark"
+	},
+	{
+		"title": "MongoDb",
+		"src": "skill-icons:mongodb"
+	},
+
+	{
+		"title": "MySQL",
+		"src": "skill-icons:mysql-dark"
+	},
+	{
+		"title": "PostgreSQL",
+		"src": "skill-icons:postgresql-dark"
+	},
+	{
+		"title": "Prisma.io",
+		"src": "skill-icons:prisma"
+	},
+	{
+		"title": "FireBase",
+		"src": "logos:firebase"
+	},
+	{
+		"title": "PocketBase",
+		"src": "logos:pocket-base"
+	},
+	{
+		"title": "auth0",
+		"src": "logos:auth0-icon"
+	}
+]

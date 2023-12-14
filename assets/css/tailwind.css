@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Dancing+Script&family=Montserrat&family=Noto+Sans+Display&family=Oswald&family=Roboto&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: "Roboto", sans-serif;
+ 
+}
+
+*::selection {
+  background-color: #d1d1c7;
+  color: #fff; /* Text color when highlighted */
+}
+
+.abril-fatface {
+  font-family: "Abril Fatface", cursive;
+}
+.oswald {
+  font-family: "Oswald", sans-serif;
+}
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+}
+.noto-sans {
+  font-family: "Noto Sans Display", sans-serif;
+}
+
+::selection{
+  @apply blur-md backdrop-blur-lg  bg-transparent  font-serif;
+}
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto", sans-serif;
+}
+
+html.lenis {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.lenis.lenis-scrolling iframe {
+  pointer-events: none;
+}
+
+img {
+  @apply hover:brightness-90 transition-all duration-150 ease-linear shadow-md;
+}
+
+body {
+  --sb-track-color: #383838;
+  --sb-thumb-color: #afab94;
+  --sb-size: 10px;
+
+  scrollbar-color: var(--sb-thumb-color) var(--sb-track-color);
+}
+
+body::-webkit-scrollbar {
+  width: var(--sb-size);
+}
+
+body::-webkit-scrollbar-track {
+  background: var(--sb-track-color);
+  border-radius: 20px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: var(--sb-thumb-color);
+  border-radius: 20px;
+}

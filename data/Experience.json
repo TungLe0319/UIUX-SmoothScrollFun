@@ -1,0 +1,59 @@
+[
+	{
+		"date": "NOVEMBER 2023 ",
+		"title": "Creating Margin",
+		"description": "As part of a contract role at Creating Margin Technology Group, I played a pivotal role in the development of two crucial pages for their internal company application. My responsibilities encompassed crafting the style  and main components of these pages, demonstrating proficiency in technologies such as Material-UI (MUI), React, and Typescript. This resulted in the delivery of robust and responsive user interfaces that met their standards. I ensured the efficient and secure management of critical information, implementing solutions that prioritized readability and organization in the codebase. This experience deepened my expertise in front-end development and reinforced my commitment to delivering high-quality solutions in collaborative environments.",
+		"link": "https://boisecodeworks.com/",
+		"tech": [
+			"Material-UI",
+			"React",
+			"Typescript",
+			"Firebase"
+		],
+		"color":"red"
+	},
+	{
+		"date": "APRIL - NOVEMBER 2023",
+		"title": "1901Group",
+		"description": "Served as an Information Technology Specialist, handled User account administration, Asset Management and Software installation across US Navy Active Directory. Troubleshooted asset, software, and hardware issues and provided remote user assistance as well as remote desktop assistance. Averaged 30+ calls a day with a 90% resolution rate of incidents.",
+		"link": "https://boisecodeworks.com/",
+		"tech": [
+			"Command Line",
+			"Powershell",
+			"Active Directory",
+			"Microsoft 365 Products",
+			"Virtual Machines",
+			"Microsoft Endpoint Configuration Manager(MECM) "
+		],
+			"color":"amber"
+	},
+	{
+    "date": "JANUARY - MARCH 2023",
+    "title": "RiaFox",
+    "description": "I contributed to several projects that utilized the MongoDB, Express, Angular, Node (MEAN) stack. My primary responsibilities included implementing minor features, addressing reported bugs, and conducting application testing. Despite my relatively junior role and limited time with the team, I gained valuable experience in remote work and effective communication. I'm grateful for the opportunity to have been a part of their team. Overall, my time at RiaFox has been a great learning experience.",
+    "link": "https://boisecodeworks.com/",
+    "tech": ["MongoDB", "Express", "Angular", "Node", "TypeScript", "ClickUp"],
+    "color": "pink"
+  },
+	{
+    "date": "AUGUST - NOVEMBER 2022",
+    "title": "Boise CodeWorks",
+    "description": "I enrolled into an Full-stack development boot camp where I immersed myself in over 600 hours of live coding sessions, and lectures regarding the latest development trends. During the program, I gained  extensive knowledge in various key areas, such as but no limited to the fundamentals of CSS, HTML, and JavaScript, building and integrating REST APIs, Implementing authentication flows and user management, and designing and managing databases, with a focus on MySQL.",
+    "link": "https://boisecodeworks.com/",
+    "tech": [
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "C#",
+      "MySQL",
+      "Vue",
+      "NetCore",
+      "BootStrap",
+      "MondoDB",
+      "Auth0",
+      "REST APIs",
+      "Object-oriented Programming"
+    ],
+    "color": "cyan"
+  }
+]
