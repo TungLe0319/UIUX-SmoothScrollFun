@@ -19,26 +19,10 @@ import Lenis from '@studio-freight/lenis'
 
 
 
-let smoother
-
-function initLenis() {
-  smoother = new Lenis({
-    duration: 1,
-    smooth: true,
-    smoothTouch: false
-  })
-
-  function raf(time) {
-    smoother.raf(time)
-    requestAnimationFrame(raf)
-  }
-
-  requestAnimationFrame(raf)
-}
 
 
 onMounted(() => {
-  initLenis()
+ useSmoothScroll()
 })
 
 </script>
